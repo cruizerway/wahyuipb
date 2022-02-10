@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wahyuipb
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Laravel and VueJs
+- 👀 I’m interested in Backend Developer and IoT.
+- 🌱 I’m currently learning RPA Developer
 - 📫 How to reach me wahyumnouval@gmail.com
 
 <!---
